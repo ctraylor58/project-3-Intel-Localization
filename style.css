@@ -200,3 +200,26 @@ footer a:hover,
 footer a:focus {
   text-decoration: underline;
 }
+
+/* RTL 
+body {
+  direction: rtl;
+  text-align: right;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer a:hover,
+footer a:focus {
+  text-decoration: underline;
+}
+
+.card {
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+} */
